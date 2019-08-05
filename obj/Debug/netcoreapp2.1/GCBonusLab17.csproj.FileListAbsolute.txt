@@ -1,0 +1,11 @@
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\bin\Debug\netcoreapp2.1\GCBonusLab17.deps.json
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\bin\Debug\netcoreapp2.1\GCBonusLab17.runtimeconfig.json
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\bin\Debug\netcoreapp2.1\GCBonusLab17.runtimeconfig.dev.json
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\bin\Debug\netcoreapp2.1\GCBonusLab17.dll
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\bin\Debug\netcoreapp2.1\GCBonusLab17.pdb
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\obj\Debug\netcoreapp2.1\GCBonusLab17.csprojAssemblyReference.cache
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\obj\Debug\netcoreapp2.1\GCBonusLab17.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\obj\Debug\netcoreapp2.1\GCBonusLab17.AssemblyInfoInputs.cache
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\obj\Debug\netcoreapp2.1\GCBonusLab17.AssemblyInfo.cs
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\obj\Debug\netcoreapp2.1\GCBonusLab17.dll
+C:\Users\Eliza\source\repos\GCBonusLab17\GCBonusLab17\obj\Debug\netcoreapp2.1\GCBonusLab17.pdb
